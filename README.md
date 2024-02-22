@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sande-98&label=Profile%20views&color=0e75b6&style=flat" alt="sande-98" /> </p>
 
-- 🌱 I’m currently learning **MERN, Android**
+- 🌱 I’m currently learning **MERN, Computer Networking**
 
 - 📫 How to reach me **ndasunpriya.nd@gmail.com**
 
