@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN, Computer Networking**
 
-- 📫 How to reach me **ndasunpriya.nd@gmail.com**
+- 📫 How to reach me **nirmanaekanayaka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
