@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sande-98&label=Profile%20views&color=0e75b6&style=flat" alt="sande-98" /> </p>
 
-- 🌱 I’m currently learning **Angular, Computer Networking**
+- 🌱 I’m currently learning **React, Computer Networking**
 
 - 📫 How to reach me **nirmanaekanayaka@gmail.com**
 
