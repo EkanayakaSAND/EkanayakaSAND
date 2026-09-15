@@ -118,9 +118,9 @@ A production-style, highly available AWS architecture built from scratch to demo
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg" alt="Nirmana's GitHub Statistics" />
+<img width="49%" src="./profile/stats.svg?v=2" alt="Nirmana's GitHub Statistics" />
 
-<img width="49%" src="./profile/top-langs.svg" alt="Nirmana's Most Used Languages" />
+<img width="49%" src="./profile/top-langs.svg?v=2" alt="Nirmana's Most Used Languages" />
 
 </div>
 
