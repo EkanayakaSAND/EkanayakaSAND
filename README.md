@@ -67,6 +67,7 @@ The website focuses on presenting safari experiences, wildlife, the driver, revi
 
 `React` `TypeScript` `Vite` `Tailwind CSS`
 
+> 🔒 Private Repository
 ---
 
 ### ☁️ Highly Available 3-Tier AWS Architecture
