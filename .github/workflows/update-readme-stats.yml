@@ -24,26 +24,19 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &hide_border=true
-            &theme=github_dark
+          options: show_icons=true&hide_border=true&theme=github_dark
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &langs_count=8
-            &hide_border=true
-            &theme=github_dark
+          options: layout=compact&langs_count=8&hide_border=true&theme=github_dark
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit updated statistics
         run: |
