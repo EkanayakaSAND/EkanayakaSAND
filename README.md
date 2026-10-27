@@ -67,7 +67,10 @@ The website focuses on presenting safari experiences, wildlife, the driver, revi
 
 `React` `TypeScript` `Vite` `Tailwind CSS`
 
+🌐 **Live Site:** [chandimakumanasafari.com](https://chandimakumanasafari.com/)
+
 > 🔒 Private Repository
+
 ---
 
 ### ☁️ Highly Available 3-Tier AWS Architecture
